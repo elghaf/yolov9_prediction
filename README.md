@@ -1,8 +1,6 @@
 # YOLOv9 on custom dataset:
 
-#### Check this video for the understanding of code: https://youtu.be/3iLJ6YWPg28
 
-![download](https://github.com/AarohiSingla/YOLOv9/assets/60029146/4648e5d6-6b6e-4e88-9f22-7fb0b599dd04)
 
 
 ### Environment setup:
