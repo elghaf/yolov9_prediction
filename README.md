@@ -1,8 +1,6 @@
 # YOLOv9 on custom dataset:
 
 
-
-
 ### Environment setup:
 
 git clone https://github.com/WongKinYiu/yolov9.git
